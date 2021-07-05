@@ -1,0 +1,16 @@
+﻿  PracticV2.cpp
+c:\users\skril\source\repos\practicv2\practicv2\practicv2.cpp(718): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\skril\source\repos\practicv2\practicv2\practicv2.cpp(719): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\skril\source\repos\practicv2\practicv2\practicv2.cpp(950): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\skril\source\repos\practicv2\practicv2\practicv2.cpp(955): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\skril\source\repos\practicv2\practicv2\practicv2.cpp(960): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\skril\source\repos\practicv2\practicv2\practicv2.cpp(966): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\skril\source\repos\practicv2\practicv2\practicv2.cpp(972): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\skril\source\repos\practicv2\practicv2\practicv2.cpp(977): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\skril\source\repos\practicv2\practicv2\practicv2.cpp(982): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\skril\source\repos\practicv2\practicv2\practicv2.cpp(987): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\skril\source\repos\practicv2\practicv2\practicv2.cpp(992): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\skril\source\repos\practicv2\practicv2\practicv2.cpp(997): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\skril\source\repos\practicv2\practicv2\practicv2.cpp(1002): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\skril\source\repos\practicv2\practicv2\practicv2.cpp(1007): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  PracticV2.vcxproj -> C:\Users\skril\source\repos\PracticV2\Debug\PracticV2.exe
